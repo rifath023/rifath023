@@ -12,8 +12,6 @@
 
 ---
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687NZT/giphy.gif" alt="coding gif" />
-
 ### 💻 `> whoami`
 
 ```js
@@ -36,8 +34,6 @@ const rifath = {
 - 🐞 Daily: **write code → break it → fix it → repeat**
 - 📫 Ping me: **rifath0422@gmail.com**
 - ⚡ Motto: **`talk is cheap, show me the code`**
-
-<br clear="both" />
 
 ---
 
