@@ -62,21 +62,21 @@ const rifath = {
 ### 📊 `> coder Stats --all`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rifath023&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rifath023&theme=dark&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifath023&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&langs_count=6" />
+  <img src="https://img.shields.io/github/followers/rifath023?style=flat&color=0d1117&label=followers" />
+  <img src="https://img.shields.io/github/stars/rifath023?affiliations=OWNER&style=flat&color=0d1117&label=stars" />
+  <img src="https://img.shields.io/github/repo-size/rifath023/Personal_Portfolio?style=flat&color=0d1117" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rifath023&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=E6EDF3&hide_border=true" alt="activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rifath023&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
+```text
+$ ./lang --top
+HTML/CSS     ██████████  90%
+JavaScript   ███████░░░  70%
+React        █████░░░░░  50%
+```
 
 ---
 
