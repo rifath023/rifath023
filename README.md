@@ -16,20 +16,26 @@
 
 ### 💻 `> whoami`
 
-| 👨‍💻 **Role** | `Frontend Developer` |
-|:--|:--|
-| 📍 **Based in** | `Bangladesh` |
-| 🛠️ **Stack** | `HTML5` `CSS3` `JavaScript` `React` |
-| 🎨 **Styling** | `Tailwind CSS` `Responsive Design` |
-| 🧰 **Tools** | `Git` `GitHub` `VS Code` `Figma` |
-| 🌱 **Learning** | `Next.js` `TypeScript` |
-| 🔭 **Building** | `Personal Portfolio v2` |
-| 🤝 **Open to** | `Freelance` `Collabs` `Frontend Gigs` |
-| ☕ **Fuel** | `Coffee → Code` |
-| ✅ **Hireable** | `true` |
-| 📫 **Reach me** | `rifath0422@gmail.com` |
+```js
+const rifath = {
+  role: "Frontend Developer",
+  location: "Bangladesh",
+  stack: ["HTML5", "CSS3", "JavaScript", "React"],
+  styling: ["Tailwind CSS", "Responsive Design"],
+  tools: ["Git", "GitHub", "VS Code", "Figma"],
+  learning: ["Next.js", "TypeScript"],
+  building: "Personal Portfolio v2",
+  openTo: ["Freelance", "Collabs", "Frontend Gigs"],
+  coffee: true,
+  hireable: true
+};
+```
 
-> _"Talk is cheap, show me the code."_ ⚡
+- 🔭 Now: **building my Personal Portfolio**
+- 🌱 Learning: **JavaScript deep-dive + React**
+- 🐞 Daily: **write code → break it → fix it → repeat**
+- 📫 Ping me: **rifath0422@gmail.com**
+- ⚡ Motto: **`talk is cheap, show me the code`**
 
 ---
 
