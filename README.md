@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=180&section=header&text=Md.%20Rifath&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20JavaScript%20%7C%20React&descAlignY=62&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D1117&height=180&section=header&text=Md.%20Rifath&fontSize=45&fontColor=E6EDF3&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20JavaScript%20%7C%20React&descAlignY=62&descSize=18" />
 
 <p align="center">
-  <a href="https://github.com/rifath023"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Rifath;Frontend+Developer+%F0%9F%9A%80;I+build+Landing+Pages+%26+Portfolios;JavaScript+%7C+React+%7C+CSS;Welcome+to+my+profile!+%E2%9C%A8" alt="Typing SVG" /></a>
+  <a href="https://github.com/rifath023"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Md.+Rifath;Frontend+Developer+%F0%9F%9A%80;I+build+Landing+Pages+%26+Portfolios;JavaScript+%7C+React+%7C+CSS;Welcome+to+my+profile!+%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rifath023&color=6c63ff&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/rifath023?label=Followers&style=flat&color=6c63ff" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=rifath023&color=0d1117&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/rifath023?label=Followers&style=flat&color=0d1117" alt="followers" />
 </p>
 
 ---
@@ -41,12 +41,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rifath023&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rifath023&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rifath023&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rifath023&theme=dark&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifath023&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifath023&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&langs_count=6" />
 </p>
 
 ---
@@ -76,5 +76,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:000000&height=120&section=footer" />
 </p>
