@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D1117&height=180&section=header&text=%3CMd.%20Rifath%2F%3E&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=%3E_%20Frontend%20Developer%20%7C%20Bug%20Hunter%20%7C%20Pixel%20Perfectionist&descAlignY=62&descSize=16" />
+# 💻 `<Md. Rifath />`
+
+> `> Frontend Developer | Bug Hunter | Pixel Perfectionist`
 
 <p align="center">
   <a href="https://github.com/rifath023"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=console.log('Hi%2C+I'm+Rifath+%F0%9F%91%8B');while(alive)+%7B+eat()%3B+sleep()%3B+code()%3B+%7D;Frontend+Developer+%7C+Bug+Hunter;I+turn+coffee+into+code+%E2%98%95;JS+%2B+React+%2B+CSS+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
@@ -105,6 +107,4 @@ $ cd rifath023 && npm run hire-me  # let's build something crazy
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:000000&height=120&section=footer" />
-</p>
+<p align="center"><code>// happy coding ✨</code></p>
